@@ -13,7 +13,7 @@ return [
 		'host' => 'localhost',
 		'name' => 'site',
 		'username' => 'root',
-		'password' => 'wickedwizardofkalamazoo',
+		'password' => '***********************',
 		'charset' => 'utf8',
 		'collation' => 'utf8_unicode_ci',
 		'prefix' => ''
@@ -27,10 +27,10 @@ return [
 		'smtp_secure' => 'tls',
 		'host' => 'smtp.gmail.com',
 		'username' => "jamesauthenticationsite@gmail.com",
-		'password' => "wickedwizardofkalamazoo",
+		'password' => "******************************",
 		'port' => 587,
 		'html' => true,
-		'from' => 'jamesauthenticationsite@gmail.com', 'James Clarke',
+		'from' => 'jamesauthenticationsite@gmail.com', 'James',
 		
 		],
 	'twig' => [
