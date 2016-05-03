@@ -13,7 +13,7 @@ return [
 		'host' => '208.97.162.197',
 		'name' => 'scrumphd',
 		'username' => 'scrumphd',
-		'password' => 'wickedwizardofkalamazoo',
+		'password' => '****************',
 		'charset' => 'utf8',
 		'collation' => 'utf8_unicode_ci',
 		'prefix' => ''
@@ -27,7 +27,7 @@ return [
 		'smtp_secure' => '',
 		'host' => 'mailout.one.com',
 		'username' => 'james@scrumphd.com',
-		'password' => '',
+		'password' => '*****************',
 		'port' => 25,
 		'html' => true,
 		'from_email' => 'james@scrumphd.com',
