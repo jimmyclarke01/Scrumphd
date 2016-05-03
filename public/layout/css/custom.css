@@ -1,0 +1,161 @@
+/***** NAVBAR *****/
+
+#myNavbarBrand {
+	color: #444;
+}
+
+#myNavbar ul li a {
+	color: #444;
+}
+
+#myNavbar ul li:hover a{
+	/*font-weight: bolder;*/
+	color: #3c948b;
+}
+
+#myNavbar ul li:hover ul li a{
+	/* font-weight: normal; */
+	color: #444;
+}
+
+#myNavbar ul li ul li:hover a{
+	/* font-weight: bolder; */
+	color: #3c948b;
+}
+
+/***** COLLAPSIBLE *****/
+
+.sort-collapsible:hover {
+	background-color: #ddd;
+}
+
+.sort-collapsible a {
+	text-decoration:none;
+	color: #444;
+}
+
+.sort-collapsible a:hover {
+	color: #3c948b;
+}
+
+.sort-collapsible a ul li:hover {
+	color: #3c948b;
+}
+
+/***** STORY *****/
+
+#story-container a div {
+	border-radius: 25px;
+}
+
+.stories a {
+	text-decoration: none;
+	color: #444;
+}
+
+.story-boxes:hover {
+	background-color: #ccc;
+	border-radius: 10px;
+}
+
+.story-boxes a:hover {
+	color: #3c948b
+}
+
+#priority-low {
+	color: yellow;
+}
+
+#priority-medium {
+	color: orange;
+}
+
+#priority-high {
+	color: red;
+}
+
+.priority {
+	text-align: center;
+	font-weight: bold;
+}
+
+.storypoints {
+	text-align: center;
+	font-weight: bold;	
+}
+
+#added-on p {
+	font-size: 11px;
+	text-align: center;
+}
+
+/***** HISTORY *****/
+
+.sprint a {
+	text-decoration: none;
+	color: #444;
+}
+
+.sprint a:hover {
+	color: #3c948b;
+}
+
+#sprint {
+	text-decoration: none;
+	color: #444;
+}
+
+#sprint:hover div {
+	background-color: #3c948b;
+	border-radius: 10px;
+}
+	
+/***** MESSAGES *****/
+
+.global {
+	text-align: center;
+}
+
+
+/***** COLOURS *****/
+
+	/*** Text Colors ***/
+
+	.lightgrey-txt {
+		color: #a9a9a9;
+	}
+
+	.tealblue-txt {
+		color: #3c948b;
+	}
+
+	.darkgrey-txt {
+		color: #444;
+	}
+
+	.lightred-txt {
+		color: #df6c4f;
+	}
+	
+	/*** Background Colors ***/
+	
+	.lightgrey-bg {
+		background-color: #a9a9a9;
+	}
+
+	.tealblue-bg {
+		background-color: #3c948b;
+	}
+
+	.darkgrey-bg {
+		background-color: #444;
+	}
+
+	.lightred-bg {
+		background-color: #df6c4f;
+	}
+
+h2 {
+	margin-bottom: 30px;
+	text-align: center;
+}
